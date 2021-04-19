@@ -1,0 +1,7 @@
+{
+  "name": "aheer-notification",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
